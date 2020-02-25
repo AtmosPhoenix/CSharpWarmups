@@ -1,0 +1,11 @@
+D:\Projects\Misc\CSharpWarmup\bin\Debug\netcoreapp3.1\CSharpWarmup.exe
+D:\Projects\Misc\CSharpWarmup\bin\Debug\netcoreapp3.1\CSharpWarmup.deps.json
+D:\Projects\Misc\CSharpWarmup\bin\Debug\netcoreapp3.1\CSharpWarmup.runtimeconfig.json
+D:\Projects\Misc\CSharpWarmup\bin\Debug\netcoreapp3.1\CSharpWarmup.runtimeconfig.dev.json
+D:\Projects\Misc\CSharpWarmup\bin\Debug\netcoreapp3.1\CSharpWarmup.dll
+D:\Projects\Misc\CSharpWarmup\bin\Debug\netcoreapp3.1\CSharpWarmup.pdb
+D:\Projects\Misc\CSharpWarmup\obj\Debug\netcoreapp3.1\CSharpWarmup.csprojAssemblyReference.cache
+D:\Projects\Misc\CSharpWarmup\obj\Debug\netcoreapp3.1\CSharpWarmup.AssemblyInfoInputs.cache
+D:\Projects\Misc\CSharpWarmup\obj\Debug\netcoreapp3.1\CSharpWarmup.AssemblyInfo.cs
+D:\Projects\Misc\CSharpWarmup\obj\Debug\netcoreapp3.1\CSharpWarmup.dll
+D:\Projects\Misc\CSharpWarmup\obj\Debug\netcoreapp3.1\CSharpWarmup.pdb
